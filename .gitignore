@@ -1,0 +1,6 @@
+*.log
+*.tmp
+node_modules/
+.DS_Store
+.idea
+rag_env
